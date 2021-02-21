@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
             child: Row(mainAxisAlignment: MainAxisAlignment.center, children: [
               new Text("BERITA TERBARU",
                   style: new TextStyle(fontSize: 16, color: Colors.grey[700])),
-              new Text("      PERTANDINGAN HARI INI",
+              new Text("  ||   PERTANDINGAN HARI INI",
                   style: new TextStyle(fontSize: 16, color: Colors.grey[700])),
             ]),
           ),
